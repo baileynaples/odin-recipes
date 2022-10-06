@@ -1,0 +1,1 @@
+Hey! I'm Bailey and this is my first project that I've completed through The Odin Project coding class. I'm very thankful that these projects have been made available and I'm actually thoroughly enjoying the process of learning a new branch of information.
